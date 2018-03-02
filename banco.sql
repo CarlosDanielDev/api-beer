@@ -13,3 +13,4 @@ create table if not exists cervejas(
     estilo varchar(45) not null,
     tipo varchar(45) not null,
     preco float(40) not null
+);
